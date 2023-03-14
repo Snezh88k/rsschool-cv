@@ -7,7 +7,7 @@ ___Frontend developer___
  2) Since September 2022 I have been studying at the Frontend developer.
  Обучение прохожу самостоятельно, информацию беру из открытых источников в интернете.
  
-## Languages and technologies used in the work:
+## Programming languages and technologies used in the work:
   1. Java Script
   2. HTML
   3. CSS
@@ -23,4 +23,4 @@ ___Frontend developer___
  2. English - A2
 
 
-[Telegram]([адрес "Описание"](https://t.me/Aleksey488))
+[Telegram](https://t.me/Aleksey488)
